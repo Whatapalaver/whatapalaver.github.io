@@ -1,0 +1,74 @@
+{
+  "6": {
+    "chart": 1,
+    "level": "B"
+  },
+  "7": {
+    "chart": 1,
+    "level": "A"
+  },
+  "8": {
+    "chart": 2,
+    "level": "D-"
+  },
+  "9": {
+    "chart": 2,
+    "level": "C-"
+  },
+  "10": {
+    "chart": 2,
+    "level": "B-"
+  },
+  "11": {
+    "chart": 2,
+    "level": "A-"
+  },
+  "12": {
+    "chart": 3,
+    "level": "D+"
+  },
+  "13": {
+    "chart": 3,
+    "level": "C+"
+  },
+  "14": {
+    "chart": 3,
+    "level": "B+"
+  },
+  "15": {
+    "chart": 4,
+    "level": "D-"
+  },
+  "16-17": {
+    "chart": 4,
+    "level": "C+"
+  },
+  "18-25": {
+    "chart": 5,
+    "level": "C"
+  },
+  "25-29": {
+    "chart": 4,
+    "level": "A+"
+  },
+  "30-34": {
+    "chart": 4,
+    "level": "C+"
+  },
+  "35-39": {
+    "chart": 3,
+    "level": "B"
+  },
+  "40-44": {
+    "chart": 3,
+    "level": "C"
+  },
+  "45-49": {
+    "chart": 2,
+    "level": "A+"
+  },
+  "50-60": {
+    "chart": 2,
+    "level": "C+"
+  }
+}
